@@ -1,21 +1,13 @@
 # Martini  [![wercker status](https://app.wercker.com/status/9b7dbc6e2654b604cd694d191c3d5487/s/master "wercker status")](https://app.wercker.com/project/bykey/9b7dbc6e2654b604cd694d191c3d5487)[![GoDoc](https://godoc.org/github.com/go-martini/martini?status.png)](http://godoc.org/github.com/go-martini/martini)
 
-### **NOTE:** The martini framework is no longer maintained.
+### **NOTE:** Since the martini framework is no longer maintained by the author, I forked it and keep maintaining it.
+
+
 
 Martini is a powerful package for quickly writing modular web applications/services in Golang.
 
 Language Translations:
-* [繁體中文](translations/README_zh_tw.md)
 * [简体中文](translations/README_zh_cn.md)
-* [Português Brasileiro (pt_BR)](translations/README_pt_br.md)
-* [Español](translations/README_es_ES.md)
-* [한국어 번역](translations/README_ko_kr.md)
-* [Русский](translations/README_ru_RU.md)
-* [日本語](translations/README_ja_JP.md)
-* [French](translations/README_fr_FR.md)
-* [Turkish](translations/README_tr_TR.md)
-* [German](translations/README_de_DE.md)
-* [Polski](translations/README_pl_PL.md)
 
 ## Getting Started
 
